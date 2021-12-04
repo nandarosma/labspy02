@@ -12,7 +12,7 @@ latihan 3
 masukan data
 input data 3 berupa bilangan
 tampilkan data
-jika jumlah dua bilangan hasilnya sama dengan bilangan lainnya, maka cetaklah pertanyaan dalam "benar". Begitupun sebalikmya
+jika jumlah dua bilangan hasilnya sama dengan bilangan lainnya, maka cetaklah pertanyaan dalam "benar". Begitupun sebaliknya
 ![Screenshot (81)](https://user-images.githubusercontent.com/92711595/141783784-d69ec538-aba3-45a3-8823-97c23c1ff6a1.png)
 Pratikum 2
 masukan 3 buah bilangan
